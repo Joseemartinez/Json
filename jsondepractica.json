@@ -1,0 +1,44 @@
+[ {
+    "nombre" : "Juan",
+    "apellido" :"Lopez" ,
+    "edad": 36,
+    "precioAsiento": 10.000,
+     "pagado":true,
+     "asiento":{
+    "numero":14,
+    "letra":"H"
+},
+"historial":[{
+    "Salida":"Quilmes",
+    "Destino":"Bernal"
+},
+{
+    "Salida":"Bernal",
+    "Destino":"Quilmes"
+}
+]
+
+    },
+
+    {
+        "nombre" : "Carlos",
+        "apellido" :"Lopez" ,
+        "edad": 17,
+        "precioAsiento": 11.000,
+         "pagado":true,
+         "asiento":{
+        "numero":15,
+        "letra":"H"
+    },
+    "historial":[{
+        "Salida":"Ezpeleta",
+        "Destino":"Bernal"
+    },
+    {
+        "Salida":"Bernal",
+        "Destino":"Ezpeleta"
+    }
+    ]
+    
+        }
+    ]
